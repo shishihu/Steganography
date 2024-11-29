@@ -126,5 +126,3 @@ def getInput():
 
 
 getInput()
-#embed("image.jpeg", "testoutput.jpeg", "skibidi toilet"*100)
-#decode("ouput.jpeg")
